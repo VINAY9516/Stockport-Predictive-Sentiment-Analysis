@@ -1,2 +1,2 @@
 # Stockport-Predictive-Sentiment-Analysis
-My first repository 
+This repository contains mini projects in machine learning with jupyter notebook files
